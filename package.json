@@ -7,9 +7,26 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.2.1",
     "vite": "^8.3.5"
   },
   "dependencies": {
-    "animejs": "^4.5.0"
-  }
+    "animejs": "^4.5.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "description": "> 这是 **零到全栈 · 模块 4.1：现代前端第一步——模块化** 的配套代码—— > 网站**模块化改造之前**的起点版本。",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voyber/zero-to-tech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/voyber/zero-to-tech/issues"
+  },
+  "homepage": "https://github.com/voyber/zero-to-tech#readme"
 }
